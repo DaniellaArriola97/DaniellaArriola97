@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DaniellaArriola97. I'm from Guatemala. I'm an International Business grad living in Russia, planning on moving to another country to start a new adventure in life.
-- 👀 I’m interested in becoming a data analyst. I believe that data is the #1 drive for better business decision making to get any company to succeed. 
-- 🌱 I’m currently learning SQL and R. Looking forward to start with Python and other languages.
+- 👋 Hi, I’m @DaniellaArriola97. I'm from Guatemala. I'm an International Business grad, planning on moving to another country to start a new adventure in life.
+- 👀 I am a Data Analyst/Business Analyst. I believe that data is the #1 drive for better business decision making to get any company to succeed.
 - 💞️ I’m looking to collaborate on anything that will make a change in the world for the better. 
 - 📫 You can reach me through my linkedin https://www.linkedin.com/in/daniellaarriola/
 n.com/
